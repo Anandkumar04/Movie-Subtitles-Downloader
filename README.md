@@ -62,6 +62,13 @@ Manually searching for and downloading subtitles for each movie is time-consumin
 - Anyone who wants a quick, automated way to get subtitles for their movies.
 - Users seeking a cross-platform, open-source subtitle downloader.
 
+<img width="1920" height="1080" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/bd316173-26d2-4649-8460-495452c719ff" />
+
+<img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/5354425f-f7b9-4ea7-9016-639eb84808d4" />
+
+<img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/26697732-819e-438b-a745-56706b86b52f" />
+
+
 ## License
 
 This project is licensed under the MIT License.
